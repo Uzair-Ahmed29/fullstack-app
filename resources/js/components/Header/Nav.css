@@ -1,0 +1,15 @@
+#basic-navbar-nav a {
+    margin-left: 20px;
+    color: black;
+}
+nav ul {
+    list-style: none;
+    display: flex;
+    margin: 0 -10px;
+  }
+  nav li {
+      margin: 0 10px;
+  }
+  .push-right {
+    margin-left: 381px;
+  }

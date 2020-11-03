@@ -1,0 +1,43 @@
+h3{
+    text-align: center;
+    padding: 20px;
+    background-color: rgb(128 128 128 / 37%);
+    border: 1px solid
+}
+
+.form {
+    margin: 0 auto;
+}
+
+.form-control {
+    border: 1px solid;
+}
+
+label {
+    font-weight: 600;
+}
+
+input[type="file"] {
+    display: none;
+}
+
+.custom-file-upload {
+    border: 1px solid #ccc;
+    display: inline-block;
+    padding: 6px 12px;
+    cursor: pointer;
+    margin: 40px 0 0 40%;
+}
+.remove-image {
+    background: none;
+    border: none;
+    color: rgb(255 0 0);
+    margin-top: 2px;
+}
+
+.image-preview {
+    width: 50%;
+    margin-left: 25%;
+    border: 1px solid rgb(128 128 128);
+    border-radius: 10px;
+}
